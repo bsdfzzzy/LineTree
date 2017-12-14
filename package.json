@@ -1,0 +1,22 @@
+{
+  "name": "linetree",
+  "version": "1.0.0",
+  "description": "A LineTree builder for some guide line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsdfzzzy/LineTree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsdfzzzy/LineTree/issues"
+  },
+  "homepage": "https://github.com/bsdfzzzy/LineTree#readme",
+  "dependencies": {
+    "preact": "^8.2.7"
+  }
+}
